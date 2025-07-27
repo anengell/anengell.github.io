@@ -1,14 +1,110 @@
----
+layout: post
 title: Solar Car Steering Wheel
-subtitle: aCentauri Solar Racing · BSWSC 2023
-tools: Siemens NX, FEM, TeamCenter, 3D Printing
-date: 2023-11-01
-image: wheel.jpg
+description: As part of ETH Zürich’s aCentauri Solar Racing team, I led the design and development of a custom steering wheel for our solar race car, competing in the 3,000 km Bridgestone World Solar Challenge across Australia.
+The goal was to create a lightweight, crash-safe, and ergonomic component that fully integrated with our vehicle’s control systems. I used Siemens NX for CAD and FEM optimization, balancing structural integrity with material efficiency. Rapid 3D printing enabled iterative prototyping and validation under real-world conditions.
+Beyond engineering, I was also one of the four primary drivers, directly testing and using the wheel in endurance race conditions — bridging the gap between design and performance.
+skills: 
+  - Structural analysis (FEM)
+  - Siemens NX (CAD, FEM)
+  - TeamCenter (PLM)
+  - 3D Printing & Prototyping
+
+
+main-image: /project2.jpg
 ---
 
-Designed and built a custom steering wheel for a solar race car in the Bridgestone World Solar Challenge (3,000 km across Australia). The goal: lightweight, crash-safe, ergonomic, and fully integrated with the vehicle's unique control system.
+---
+# Header 1 
+Used for the title (already generated automatically at the top)
+## Header 2  
+Use this for the header of each section
+### Header 3 
+Use this to have subsection if needed
 
-- Used Siemens NX for FEM optimization
-- Applied ergonomic principles for long-duration comfort
-- Leveraged 3D printing for fast iteration
-- Integrated with TeamCenter and raced the car as pilot
+
+## Embedding images 
+### External images
+{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
+<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
+You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+
+### Embeed images
+{% include image-gallery.html images="project2.jpg" height="400" %} 
+place the images in project folder/images then update the file path.   
+
+
+## Embedding youtube video
+The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
+*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
+{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
+{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+
+you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+
+The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
+{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
+
+<br>
+
+## Adding a hozontal line
+---
+
+## Starting a new line
+leave two spaces "  " at the end or enter <br>
+
+## Adding bold text
+this is how you input **bold text**
+
+## Adding italic text
+Italicized text is the *cat's meow*.
+
+## Adding ordered list
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+## Adding unordered list
+- First item
+- Second item
+- Third item
+- Fourth item
+
+## Adding code block
+```ruby
+def hello_world
+  puts "Hello, World!"
+end
+```
+
+```python
+def start()
+  print("time to start!")
+```
+
+```javascript
+let x = 1;
+if (x === 1) {
+  let x = 2;
+  console.log(x);
+}
+console.log(x);
+
+```
+
+## Adding external links
+[Wikipedia](https://en.wikipedia.org)
+
+
+## Adding block quote
+> A blockquote would look great if you need to highlight something
+
+
+## Adding table 
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
+
+make sure to leave aline betwen the table and the header
