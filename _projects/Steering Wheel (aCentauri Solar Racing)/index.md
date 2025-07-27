@@ -10,7 +10,7 @@ skills:
   - Rapid Prototyping
   - Laser Cutting
 
-main-image: /project2.jpg
+main-image: /SoCaSteeringWheel (Crop)
 ---
 
 ---
