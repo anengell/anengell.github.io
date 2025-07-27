@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
  Mechanical Engineering student at ETH Zürich Specialized in Engineering for Health with hands-on experience in mechanical design, CAD, and motorsports.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/profile_picture.png
 
 
 # Link your resume
