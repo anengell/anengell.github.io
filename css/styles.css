@@ -23,7 +23,7 @@ html {
 
 body {
     padding: 0 50px;
-    font-family: 'Poppins', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: var(--background-color);
     max-width: 1400px;
     margin: 0 auto;
@@ -466,7 +466,7 @@ nav .mobile-nav {
 }
 
 .contact-section .group form input, .contact-section .group form textarea {
-    font-family: 'Poppins', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: transparent;
     border: 1px groove var(--text-color);
     padding:5px;
@@ -479,7 +479,7 @@ nav .mobile-nav {
 
 .contact-section .group form button {
     font-size: 16px;
-    font-family: 'Poppins', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #fff;
     background-color: var(--link-color);
     border:none;
