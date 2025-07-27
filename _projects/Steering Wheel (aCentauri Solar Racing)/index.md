@@ -8,7 +8,7 @@ skills:
   - Laser Cutting
   - Rapid Prototyping
 
-main-image: /SoCaSteering.jpg
+main-image: /SoCaSteering.png
 ---
 
 ---
