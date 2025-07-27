@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Solar Car Steering Wheel
-description: As part of ETH Zürich’s aCentauri Solar Racing team, I led the design and development of a custom steering wheel for our solar race car, competing in the 3,000 km Bridgestone World Solar Challenge across Australia.
-The goal was to create a lightweight, crash-safe, and ergonomic component that fully integrated with our vehicle’s control systems. I used Siemens NX for CAD and FEM optimization, balancing structural integrity with material efficiency. Rapid 3D printing enabled iterative prototyping and validation under real-world conditions.
-Beyond engineering, I was also one of the four primary drivers, directly testing and using the wheel in endurance race conditions — bridging the gap between design and performance.
-skills: 
-  - Structural analysis (FEM)
-  - Siemens NX (CAD, FEM)
-  - TeamCenter (PLM)
-  - 3D Printing & Prototyping
+description:  As a member of ETH Zürich’s aCentauri Solar Racing team, I independently designed and built a custom steering wheel for our solar race car, which competed in the 3,000 km Bridgestone World Solar Challenge across Australia. The steering wheel was engineered to be lightweight, crash-safe, and ergonomic, fully integrated with the car’s unique control system. Using Siemens NX and FEM analysis, I optimized the design for strength and performance. I fabricated and iterated the part using 3D printing, ensuring it met both technical and driver comfort requirements.
 
+I also served as one of the four main drivers, using the steering wheel in real race conditions — giving me direct feedback on its performance and usability.
+skills: 
+  - Siemens NX (CAD + FEM)
+  - 3D Printing
+  - Rapid Prototyping
+  - Laser Cutting
 
 main-image: /project2.jpg
 ---
