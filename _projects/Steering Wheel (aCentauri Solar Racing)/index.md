@@ -1,3 +1,4 @@
+---
 layout: post
 title: Solar Car Steering Wheel
 description: As part of ETH Zürich’s aCentauri Solar Racing team, I led the design and development of a custom steering wheel for our solar race car, competing in the 3,000 km Bridgestone World Solar Challenge across Australia.
