@@ -23,13 +23,13 @@ profile_image: ./assets/images/profile-image/ProfilePicture.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1RhyJRHdMw11HnfNZV0cGYuOMwyk-l9b0/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    https://www.linkedin.com/in/andreengel 
+  linkedin: test    https://www.linkedin.com/in/andreengel/
   github: leea12    # https://github.com/{your url slug} 
 
 
