@@ -1,16 +1,19 @@
+
 ---
 layout: post
-title: Solar Car Steering Wheel
-description:
-As a member of ETH Zürich’s aCentauri Solar Racing team, I independently designed and built a custom steering wheel for our solar race car, which competed in the 3,000 km Bridgestone World Solar Challenge across Australia. The steering wheel was engineered to be lightweight, crash-safe, and ergonomic, fully integrated with the car’s unique control system. Using Siemens NX and FEM analysis, I optimized the design for strength and performance. I fabricated and iterated the part using 3D printing, ensuring it met both technical and driver comfort requirements.
-I also served as one of the four main drivers, using the steering wheel in real race conditions — giving me direct feedback on its performance and usability.
+title: Super Heavy Booster Catch (Demo Only)
+description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
+    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
 skills: 
-  - Siemens NX (CAD + FEM)
-  - 3D Printing
-  - Rapid Prototyping
-  - Laser Cutting
+  - Structural analysis
+  - Aerodynamic design
+  - Propulsion system integration
+  - Control Algorithem 
+  - Welding
+  - Metal forming
+  - Thermal simulation
 
-main-image: /SoCaWheel.png
+main-image: /project2.jpg
 ---
 
 ---
