@@ -16,8 +16,7 @@ main-image: /SoCaSW.jpg
 Designed a custom steering wheel for a solar race car in the Bridgestone World Solar Challenge 2023, a 3,000 km endurance race across Australia.
 **The goal:** a component that was lightweight, crash-safe, ergonomic, and fully integrated with the car’s unique controls.
 
-![Test](/assets/images/steeringwheel/SoCaDrawing.jpg)
-{% include image-gallery.html images="/assets/steeringwheel/SoCaDrawing.jpg" %}
+{% include image-gallery.html images="images/SoCaDrawing.jpg" %}
 
 ## How?
 Used Siemens NX for FEM optimization, balancing weight reduction with safety and structural integrity.
