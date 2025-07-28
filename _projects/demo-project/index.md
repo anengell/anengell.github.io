@@ -23,7 +23,7 @@ Designed a custom steering wheel for a solar race car in the Bridgestone World S
 
 
 ### Embeed images
-{% include image-gallery.html images="SoCa.jpg" height="400" %} 
+{% include image-gallery.html images="SoCaDrawing.jpg" height="400" %} 
 
 ## How?
 
