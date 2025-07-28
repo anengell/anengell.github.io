@@ -29,8 +29,8 @@ resume-url: https://drive.google.com/file/d/1RhyJRHdMw11HnfNZV0cGYuOMwyk-l9b0/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/andreengel/
-  github: https://github.com/anengell
+  linkedin: andreengel
+  github: anengell
 
 
   
