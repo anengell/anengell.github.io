@@ -8,7 +8,7 @@ skills:
   - Laser Cutting
   - Rapid Prototyping
 
-main-image: /SoCaSW.jpg
+main-image: SoCaSW.jpg
 ---
 
 ---
