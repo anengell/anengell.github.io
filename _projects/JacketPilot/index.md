@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Jacket Assistance System (ReLab HackaHealth)  
-description: As part of the **Assistive Technology Challenge 2025** at **ReLab ETH Zürich**, our team developed a jacket assistance chair for a Challenger with upper-body mobility impairments. The system uses a motorized backrest and foot pedal interface to allow users to independently put on a jacket, eliminating the need for caregiver support. I was the **Technical Lead** on this project, responsible for the mechanical design and prototyping using Siemens NX, 3D printing, and hands-on iteration.  
+description: As part of the Assistive Technology Challenge 2025 at ReLab ETH Zürich, our team developed a jacket assistance chair for a Challenger with upper-body mobility impairments. The system uses a motorized backrest and foot pedal interface to allow users to independently put on a jacket, eliminating the need for caregiver support. I was the Technical Lead on this project, responsible for the mechanical design and prototyping using Siemens NX, 3D printing, and hands-on iteration.  
 skills:
   - Siemens NX (CAD + FEM)
   - 3D Printing
