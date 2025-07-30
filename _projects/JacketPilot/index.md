@@ -1,36 +1,39 @@
 ---
-layout: post
-title: Jacket Assistance System (HackaHealth)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
-skills: 
+layout: post  
+title: Jacket Assistance System (ReLab HackaHealth)  
+description: As part of the **Assistive Technology Challenge 2025** at **ReLab ETH Zürich**, our team developed a jacket assistance chair for a Challenger with upper-body mobility impairments. The system uses a motorized backrest and foot pedal interface to allow users to independently put on a jacket, eliminating the need for caregiver support. I was the **Technical Lead** on this project, responsible for the mechanical design and prototyping using Siemens NX, 3D printing, and hands-on iteration.  
+skills:
   - Siemens NX (CAD + FEM)
   - 3D Printing
   - Laser Cutting
   - Rapid Prototyping
+  - User Centered Design
+  - FMECA
 
 main-image: /SoCaSteering.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## What?
+Developed a **motorized jacket assistance chair** that enables users with limited upper-body mobility to put on a jacket independently.
 
-{% include youtube-video.html id="QsPf5Iq1RSk" autoplay = "false" width= "900px" %}  
+**The goal:** Restore autonomy in daily dressing routines using simple, reliable mechanics and intuitive user interaction.
 
+{% include image-gallery.html images="project2.jpg" height="400" %}
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+## How?
+The user hangs their jacket on the chair’s backrest and sits down, sliding their arms into the sleeves.  
+Using a **foot pedal**, they activate a **motorized backrest** that lifts the jacket smoothly up their back.  
+Once the jacket is in place, the user stands up and walks forward — and the jacket is on.
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+We used **Siemens NX** to design and simulate the structure, followed by **3D printing** and **laser cutting** for quick iteration and prototyping.  
+Focus areas included **ergonomics**, **mechanical safety**, and **ease of use**.
 
+{% include image-gallery.html images="https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}  
 
+## Results
+Created a **fully working prototype** used by our Challenger in real-life scenarios.  
+Demonstrated reliable function, intuitive control, and positive user feedback on autonomy and dignity.  
+Showcased how accessible engineering can meaningfully improve daily life for individuals with physical impairments.
+
+{% include youtube-video.html id="QsPf5Iq1RSk" autoplay="false" width="900px" %}  
