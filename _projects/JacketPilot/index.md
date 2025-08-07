@@ -10,7 +10,7 @@ skills:
   - User Centered Design
   - FMECA
 
-main-image: /SoCaSteering.jpg
+main-image: /JacketPilotChair.jpg
 ---
 
 ---
@@ -19,7 +19,7 @@ Developed a **motorized jacket assistance chair** that enables users with limite
 
 **The goal:** Restore autonomy in daily dressing routines using simple, reliable mechanics and intuitive user interaction.
 
-{% include image-gallery.html images="project2.jpg" height="400" %}
+{% include image-gallery.html images="jacketpilotsketch.jpeg" height="400" %}
 
 ## How?
 The user hangs their jacket on the chair’s backrest and sits down, sliding their arms into the sleeves.  
