@@ -28,7 +28,9 @@ Once the jacket is in place, the user stands up and walks forward — and the ja
 
 We used **Siemens NX** to design and simulate the structure, followed by **3D printing** and **laser cutting** for quick iteration and prototyping.  
 Focus areas included **ergonomics**, **mechanical safety**, and **ease of use**.
- 
+
+{% include image-gallery.html images="independress2.jpg" height="400" %} 
+
 ## Results
 Created a **fully working prototype** used by our Challenger in real-life scenarios.  
 Demonstrated reliable function, intuitive control, and positive user feedback on autonomy and dignity.  
