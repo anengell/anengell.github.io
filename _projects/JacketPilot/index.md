@@ -10,7 +10,7 @@ skills:
   - User Centered Design
   - FMECA
 
-main-image: /IMG_8417.jpg
+main-image: /jacketpilotsketch.jpeg
 ---
 
 ---
